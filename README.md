@@ -24,6 +24,5 @@ This application supports the following algorithms:
 
 On top of the pathfinding algorithms listed above, I implemented a **Recursive Division** Maze Generation algorithm.
 
-## More about the Swarm Algorithm
 
 
